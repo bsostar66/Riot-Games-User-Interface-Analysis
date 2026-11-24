@@ -1,7 +1,8 @@
 # Riot-Games-User-Interface-Analysis
 Analysis of the Riot Games website user interface and user experience.
 ---
-
+LINK: https://www.figma.com/design/LzF8DF96mEB6frlNcfAcO3/KSPP?node-id=0-1&t=TfiAP6VDFB6i16sn-1
+--
 ## 1. Opis projekta
 
 Projekt obuhvaća analizu korisničkog sučelja web stranice tvrtke Riot Games. Cilj projekta bio je procijeniti kvalitetu dizajna i korisničkog iskustva te prepoznati njegove prednosti i nedostatke.
